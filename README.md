@@ -1,4 +1,4 @@
-# 020916_Classification_Trees
+### Classification Trees
 
 Data and code for the Tuesday, 09 February Meetup.
 
