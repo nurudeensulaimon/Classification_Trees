@@ -1,2 +1,5 @@
 # 020916_Classification_Trees
-Code for the Tuesday, 09 February Meetup
+
+Data and code for the Tuesday, 09 February Meetup.
+
+Technical leader: Rick Jones
